@@ -1,7 +1,7 @@
 
 [project]
 name = "positron-package-warnings"
-r_version = "4.6"
+r_version = "4.5"
 
 # Optional: base URL for `rv add owner/repo` shorthand (defaults to https://github.com).
 # git_shorthand_base_url = "https://github.example.com"
